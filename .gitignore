@@ -1,7 +1,12 @@
+#忽略库中的以下文件夹,不限定文件夹路径层次
 Debug/
 Release/
+GeneratedFiles/
+#忽略根目录中的Test文件夹
+#/Test/
+#忽略以下后缀的文件
 *.VC.db
 *.VC.opendb
 *.vcxproj.user
-GeneratedFiles/
+
 

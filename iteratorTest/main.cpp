@@ -14,6 +14,7 @@ bool cmp(int i, int j)
 		return true;
 	}
 }
+
 int main(void) {
 
 
